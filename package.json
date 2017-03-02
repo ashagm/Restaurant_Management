@@ -1,0 +1,27 @@
+{
+  "name": "restaurant_management",
+  "version": "1.0.0",
+  "description": "manages seating in the restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashagm/Restaurant_Management.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Asha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashagm/Restaurant_Management/issues"
+  },
+  "homepage": "https://github.com/ashagm/Restaurant_Management#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
