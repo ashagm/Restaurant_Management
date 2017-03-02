@@ -1,0 +1,89 @@
+
+html, 
+body{ 
+  background: url("../images/bg-restuarant.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Pangolin', cursive;
+  color: #800000;
+  position: relative;
+  
+}
+
+.jumbotron {
+    background: #48C9B0;
+    color: #800000;
+    opacity : 0.7;
+    margin: 30px 50px;
+    padding: 20px 0px;
+    border-radius: 30px;
+}
+
+.content button {
+	background-color: #48C9B0;
+	padding: 20px;
+	width: 350px;
+	border-radius: 25px;
+	color: #800000;
+	font-size: 24px;
+	opacity : 0.7;	
+}
+
+.content-r button{
+	background-color: #800000;
+	padding: 20px;
+	width: 350px;
+	border-radius: 25px;
+	color: #48C9B0;
+	font-size: 24px;
+	opacity : 0.7;	
+
+}
+
+.contentBtn {
+	margin-top: 30px;
+}
+
+.body-content {
+	background: #48C9B0;
+    color: #800000;
+    opacity : 0.7;
+    margin: 30px 50px;
+    padding: 20px 0px;
+    border-radius: 30px;
+}
+
+.body-content .panel{
+	background: #800000;
+    color: #48C9B0;
+
+}
+
+.body-content .panel-heading{
+	background: #800000;
+    color: #fff;
+
+}
+
+.submit {
+	background-color: #800000;
+	color: #48C9B0;
+	padding: 10px 20px;
+}
+
+footer{
+	position: absolute;
+	bottom :0;
+	right: 0;
+	margin-bottom: -100px;
+}
+
+footer a{
+	float: right;
+	color: #48C9B0;
+	font-size: 24px; 
+	font-weight: bold; 
+	
+}
